@@ -1,2 +1,2 @@
 # Result
-![chart](chart.js)
+![chart](chart.png)
